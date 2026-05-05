@@ -1,15 +1,7 @@
 # 🚀 Anudip Training Programs
 
 <div align="center">
-  
-![GitHub repo size](https://img.shields.io/github/repo-size/shreyas5335/anudip-training-projects)
-![GitHub language count](https://img.shields.io/github/languages/count/shreyas5335/anudip-training-projects)
-![GitHub last commit](https://img.shields.io/github/last-commit/shreyas5335/anudip-training-projects)
-
 **Comprehensive portfolio of projects and practical work developed during Anudip Foundation training**
-
-[📁 View Projects](#-folder-structure) • [🚀 Getting Started](#-getting-started) • [📚 Learning Outcomes](#-learning-outcomes)
-
 </div>
 
 ---
